@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PolymorphicDBExample", "..\Projects\PolymorphicDBExample\PolymorphicDBExample.vcxproj", "{66C4047D-18D9-466D-AA66-0926B708241F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PolymorphicDBConnector", "..\Projects\PolymorphicDBConnector\PolymorphicDBConnector.vcxproj", "{CB5F3CE4-A927-4D20-AAC7-0D4CF9DD4519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C4047D-18D9-466D-AA66-0926B708241F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66C4047D-18D9-466D-AA66-0926B708241F}.Debug|Win32.Build.0 = Debug|Win32
+		{66C4047D-18D9-466D-AA66-0926B708241F}.Release|Win32.ActiveCfg = Release|Win32
+		{66C4047D-18D9-466D-AA66-0926B708241F}.Release|Win32.Build.0 = Release|Win32
+		{CB5F3CE4-A927-4D20-AAC7-0D4CF9DD4519}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB5F3CE4-A927-4D20-AAC7-0D4CF9DD4519}.Debug|Win32.Build.0 = Debug|Win32
+		{CB5F3CE4-A927-4D20-AAC7-0D4CF9DD4519}.Release|Win32.ActiveCfg = Release|Win32
+		{CB5F3CE4-A927-4D20-AAC7-0D4CF9DD4519}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+dbDllPath:../Linkage/PDbMssqlDB.dll
+dbAddress:localhost
+dbName:BANKNOTEDB
+dbUserName:softeal
+dbPasswrd:excalibur
